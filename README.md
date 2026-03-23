@@ -20,7 +20,7 @@ Gathers essential system metadata including the current user, kernel version, an
 ### *2. FOSS Package Inspector*
 Automates the verification of the Python installation. It checks the system path for the binary and retrieves the current version string.
 
-### *3. Disk and Permission Auditor *
+### *3. Disk and Permission Auditor*
 Performs a security sweep of the home directory, listing files alongside their specific permission bits and ownership data.
 
 ### *4. Log File Analyzer*
