@@ -1,0 +1,6 @@
+--- MY OPEN SOURCE MANIFESTO ---
+Date: 23 March 2026
+
+I believe in the power of Mozilla Firefox to change the world.
+To me, the core of open source is respect.
+In this spirit, I commit to building AI study assistant to share with the community.
