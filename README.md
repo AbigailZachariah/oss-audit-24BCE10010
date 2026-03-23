@@ -44,10 +44,54 @@ To run these scripts, you must be using a *Linux environment* (Ubuntu/Debian pre
 
 ### *Step 1: Clone the Repository*
 ```bash
-git clone https://github.com/https://github.com/AbigailZachariah/oss-audit-24BCE10010.git
+git clone https://github.com/AbigailZachariah/oss-audit-24BCE10010.git
 cd oss-audit-24BCE10010
+```
 
 ### *Step 2: Grant Execution Permission*
-Run the following command to allow the scripts to run on your Linux system:
+
+Run this command to allow the scripts to run on your Linux system:
+
 ```bash
 chmod +x *.sh
+```
+
+### *Step 3: Run the System Identity Report*
+
+Execute this script to see your current system metadata:
+
+```bash
+./identity.sh
+```
+
+### *Step 4: Run the FOSS Package Inspector*
+
+Use this to verify your Python installation:
+
+```bash
+./inspector.sh
+```
+
+### *Step 5: Run the Disk and Permission Auditor *
+
+This will list the security permissions for your current folder:
+
+```bash
+./auditor.sh
+```
+
+### *Step 6: Run the Log File Analyzer *
+
+This requires administrative privileges to read the system logs:
+
+```bash
+./log_analyzer.sh
+```
+
+### *Step 7: Run the Open Source Manifesto Generator*
+
+Follow the prompts to create your manifesto file:
+
+```bash
+./manifesto.sh
+
