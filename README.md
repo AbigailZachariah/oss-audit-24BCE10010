@@ -72,7 +72,7 @@ Use this to verify your Python installation:
 ./inspector.sh
 ```
 
-### *Step 5: Run the Disk and Permission Auditor *
+### *Step 5: Run the Disk and Permission Auditor*
 
 This will list the security permissions for your current folder:
 
@@ -80,7 +80,7 @@ This will list the security permissions for your current folder:
 ./auditor.sh
 ```
 
-### *Step 6: Run the Log File Analyzer *
+### *Step 6: Run the Log File Analyzer*
 
 This requires administrative privileges to read the system logs:
 
